@@ -12,6 +12,7 @@ Ce projet est une application graphique basée sur PySide6 permettant de simuler
 
 ## Installation
 
+
 ### Prérequis
 
 - Python 3.8+
