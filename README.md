@@ -10,7 +10,7 @@ Ce projet est une application graphique basée sur PySide6 permettant de simuler
 - **Ouverture de boosters** : Simulation de l'ouverture d'un booster contenant plusieurs cartes Pokémon.
 - **Interface utilisateur** : Navigation fluide entre les différentes scènes via une barre d'outils.
 
-## Installation 
+## Installation
 
 ### Prérequis
 
@@ -23,7 +23,7 @@ Ce projet est une application graphique basée sur PySide6 permettant de simuler
 
 1. Clonez ce dépôt :
    ```sh
-   git clone https://github.com/votre-utilisateur/pokemon-tcg.git
+   git clone https://github.com/sltcvtfk/pokemon-tcg-pyside6git
    cd pokemon-tcg
    ```
 2. Installez les dépendances :
@@ -43,7 +43,8 @@ python main.py
 
 ```
 📂 pokemon-tcg
-│── 📂 .vscode             
+│── 📂 .vscode  
+│── 📂 UML                 #Diagrammes de classe
 │── 📂 assets              
 │── 📂 font                
 │── 📂 img                 # Icônes et images
@@ -63,7 +64,9 @@ python main.py
 
 ## Auteurs
 
-- **Votre Nom** (@votre-github)
+- **STAN SALOMON** (@sltcvtfk)
+- **EVAN CHAMAND** (@EvanLeGoat)
+- **ROMAIN ARDOISE** (@ShizuutA)
 
 ## Licence
 
