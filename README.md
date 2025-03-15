@@ -43,31 +43,35 @@ python main.py
 ## Architecture du Projet
 
 ```
-📂 pokemon-tcg
-│── 📂 .vscode  
-│── 📂 UML                 #Diagrammes de classe
-│── 📂 assets              
-│── 📂 font                
+📂 pokemon-tcg       
+│── 📂 assets              # Dossier des autres fichiers Python
+│── 📂 font                # Police d'écriture
 │── 📂 img                 # Icônes et images
 │── 📂 json                # Fichiers JSON (Pokedex...)
-│── 📂 UML
-│── 📜 .gitignore          
-│── 📜 LICENSE         
+│── 📂 UML                 # Diagrammes de classe
+│── 📜 .gitignore          # Fichier ignoré lors des commits
+│── 📜 LICENSE             # Fichier de la LICENSE utilisé
 │── 📜 README.md           # Documentation       
-│── 📜 main.py        
-│── 📜 requirements.txt            
+│── 📜 main.py             # Fichier Python principal
+│── 📜 requirements.txt    # Dépendances obligatoires
 ```
 
 ## Technologies utilisées
 
 - **Python** (PySide6, JSON, Requests)
 - **PlantUML** (Diagrammes UML pour la conception)
+- **GitHub** (Partage du projet)
 
+## Informations supplémentaires
+
+- **pokemon.json** Correction d'un problème avec le nom de certains pokémons
+   - [Problème 1 (Pull Request Merged)](https://github.com/Purukitto/pokemon-data.json/pull/27/files)
+   - [Problème 2 (Pull Request Open)](https://github.com/Purukitto/pokemon-data.json/pull/28/files)
 ## Auteurs
 
-- **STAN SALOMON** (@sltcvtfk)
-- **EVAN CHAMAND** (@EvanLeGoat)
-- **ROMAIN ARDOISE** (@ShizuutA)
+- **STAN SALOMON** ([@sltcvtfk](https://github.com/sltcvtfk))
+- **EVAN CHAMAND** ([@EvanLeGoat](https://github.com/EvanLeGoat))
+- **ROMAIN ARDOISE** ([@ShizuutA](https://github.com/ShizuutA))
 
 ## Licence
 
